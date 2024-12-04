@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/zvwgvx/shikanoko-gif/blob/main/SO8a9geBGZin6Q8I1O.gif"  />
+<img align="right" height="150" src="https://github.com/zvwgvx/shikanoko-gif/blob/main/noko.gif"  />
 
 ###
 
