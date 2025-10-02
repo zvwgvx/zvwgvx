@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/zvwgvx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.paypal.com/zvwgvx1" target="_blank">
+  <a href="paypal.me/zvwgvx1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
   </a>
 </div>
