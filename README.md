@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<p align="left">👋 I'm Zang Vũ  <br><br>- 🔭 I’m a grade 10 student specializing in Informatics at Luong Van Tuy High School for the Gifted, Vietnam  <br>- 📚 I'm currently learning Competitive Programming, Data Structures & Algorithms, and System Design basics<br>- ⚡ In my free time, I enjoy coding side projects, solving problems on Codeforces, and exploring new technologies</p>
+<p align="left">👋 I'm Zang Vũ  <br><br>- 🔭 I’m a grade 10 student specializing in Informatics at Luong Van Tuy High School for the Gifted, Vietnam  <br>- 📚 I'm currently learning AI/ML, Competitive Programming, Data Structures & Algorithms, and System Design basics<br>- ⚡ In my free time, I enjoy coding side projects, solving problems on Codeforces, and exploring new technologies</p>
 
 ###
 
