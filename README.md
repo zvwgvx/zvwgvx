@@ -17,8 +17,8 @@ I am interested in artificial intelligence, especially large language models, in
 ## Selected Projects
 - [**Polyverse Agent**](https://github.com/polydevs-uk/polyverse-agent) — experimental agent framework exploring memory, state transitions, and adaptive behavior
 - [**Pi Router**](https://github.com/zvwgvx/pi-router) — lightweight Rust-based networking project for Raspberry Pi
-- [**Pryzrak contributions**](https://github.com/svyatopolk/pryzrak) — distributed systems and network-oriented security framework with advanced low-level design
-- [**Open WebUI contributions**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
+- [**Pryzrak**](https://github.com/svyatopolk/pryzrak) — contributions to a distributed systems and network-oriented security framework with advanced low-level design
+- [**Open WebUI**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
 
 ## Academic and Problem-Solving Background
 - Received [Honorable Mention at ICPC National 2025](https://github.com/zvwgvx/zvwgvx/blob/main/cert.png)
