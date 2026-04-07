@@ -13,9 +13,9 @@ I am interested in artificial intelligence, especially large language models, in
 - Open-source AI Tooling
 
 ## Selected Projects
-- [**polyverse-agent**](https://github.com/polydevs-uk/polyverse-agent) — experimental agent framework exploring memory, state transitions, and adaptive behavior
-- [**pi-router**](https://github.com/zvwgvx/pi-router) — lightweight Rust-based networking project for Raspberry Pi
-- [**pryzrak**](https://github.com/svyatopolk/pryzrak) — distributed systems and network-oriented security framework with advanced low-level design
+- [**Polyverse Agent**](https://github.com/polydevs-uk/polyverse-agent) — experimental agent framework exploring memory, state transitions, and adaptive behavior
+- [**Pi Router**](https://github.com/zvwgvx/pi-router) — lightweight Rust-based networking project for Raspberry Pi
+- [**Pryzrak contributions**](https://github.com/svyatopolk/pryzrak) — distributed systems and network-oriented security framework with advanced low-level design
 - [**Open WebUI contributions**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
 
 ## Academic and Problem-Solving Background
