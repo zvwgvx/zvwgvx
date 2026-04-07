@@ -1,4 +1,6 @@
-# Zang Vũ
+# Giang T.Vu · Zang Vũ
+
+
 
 Research-oriented student building AI systems, agents, and open-source tools.
 
@@ -19,8 +21,8 @@ I am interested in artificial intelligence, especially large language models, in
 - [**Open WebUI contributions**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
 
 ## Academic and Problem-Solving Background
-- Honorable Mention, ICPC National 2025
-- Codeforces Expert
+- Received [Honorable Mention at ICPC National 2025](https://github.com/zvwgvx/zvwgvx/blob/main/cert.png)
+- Reached Expert rating on [Codeforces](https://codeforces.com/profile/zvwg.vx)
 
 ## Technical Background
 - **Languages:** Python, Rust
