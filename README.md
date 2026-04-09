@@ -1,4 +1,4 @@
-# Giang T. Vu (also known as Zang Vũ)
+# Giang T. Vu (a.k.a. Zang Vũ)
 
 
 
