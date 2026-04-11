@@ -1,4 +1,4 @@
-# Giang T. Vu (a.k.a. Zang Vũ)
+# Giang T. Vu (Zang Vũ)
 
 
 Research-oriented student building AI systems, agents, and open-source tools.
