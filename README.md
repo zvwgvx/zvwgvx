@@ -27,4 +27,4 @@ I am interested in artificial intelligence, particularly large language models, 
 - **Focus:** AI systems, LLM tooling, agent architectures
 - **Secondary interests:** systems programming, networking, infrastructure, Linux
 
-[Website](https://zvwgvx.polydevs.uk/) · [Email](mailto:zvwgvx@polydevs.uk) · [LinkedIn](https://linkedin.com/in/your-id) · [Codeforces](https://codeforces.com/profile/zvwg.vx)
+[Website](https://zvwgvx.polydevs.uk/) · [Email](mailto:zvwgvx@polydevs.uk) · [LinkedIn](https://linkedin.com/in/zvwgvx) · [Codeforces](https://codeforces.com/profile/zvwg.vx)
