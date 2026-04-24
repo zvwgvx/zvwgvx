@@ -16,7 +16,7 @@ I am interested in artificial intelligence, with a specific focus on cognitive a
 
 ## Selected Projects
 - [**Polyverse Agent**](https://github.com/polydevs-labs/polyverse-agent) — experimental agent framework exploring memory, state transitions, and adaptive behavior
-- [**AegisQ**](https://github.com/polydevs-labs/AegisQ) — specialized quantitative intelligence system (QIS) for trading, featuring multi-agent orchestration and advanced risk management
+- [**AegisQ**](https://github.com/polydevs-labs/AegisQ) — specialized quantitative intelligence system for trading, featuring multi-agent orchestration and advanced risk management
 - [**Pryzrak**](https://github.com/svyatopolk/pryzrak) — contributions to a distributed systems and network-oriented security framework with advanced low-level design
 - [**Open WebUI**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
 
