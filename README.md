@@ -27,7 +27,7 @@ I am interested in artificial intelligence, with a specific focus on cognitive a
 - Reached Expert rating on Codeforces
 
 ## Technical Background
-- **Languages:** Python, Rust
+- **Languages:** Python, C/C++, Rust
 - **Focus:** AI systems, cognitive AI, quantitative trading, agent architectures
 - **Secondary interests:** systems programming, networking, infrastructure, Linux
 
