@@ -1,6 +1,5 @@
 # Giang T. Vu (Zang Vũ)
 
-
 Research-oriented student building AI systems, agents, and open-source tools.
 
 I am interested in artificial intelligence, particularly large language models, intelligent agents, instruction tuning, and practical machine learning systems. My GitHub serves as a record of projects, experiments, and open-source contributions aligned with these interests.
@@ -20,8 +19,10 @@ I am interested in artificial intelligence, particularly large language models, 
 - [**Open WebUI**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
 
 ## Academic and Problem-Solving Background
-- Received [Honorable Mention at ICPC National 2025](https://github.com/zvwgvx/zvwgvx/blob/main/cert.png)
-- Reached Expert rating on [Codeforces](https://codeforces.com/profile/zvwg.vx)
+- Qualified for the Team Selection Test (Round 2), Vietnam Olympiad in Artificial Intelligence (VOAI) 2026
+- Won Bronze Medal in Informatics, Northern and Coastal Area Olympiad
+- Received Honorable Mention at ICPC National 2025
+- Reached Expert rating on Codeforces
 
 ## Technical Background
 - **Languages:** Python, Rust
