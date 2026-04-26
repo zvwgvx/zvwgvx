@@ -33,7 +33,7 @@ My primary direction spans cognitive science, quantitative trading, and cybersec
 
 ## Technical Background
 - **Languages:** Python, C/C++, Rust
-- **Focus Areas:** AI systems, cognitive AI, quantitative trading, agent architectures
+- **Focus Areas:** AI systems, cognitive AI, quantitative trading, cybersecurity, agent architectures
 - **Secondary Interests:** systems programming, networking, infrastructure, Linux
 
 ## Links
