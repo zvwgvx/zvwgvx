@@ -11,7 +11,6 @@ My primary direction spans cognitive science, quantitative trading, and cybersec
 - Large Language Models
 - Intelligent Agents and Autonomous Systems
 - Instruction Tuning and Alignment
-- Retrieval-Augmented Generation
 - Memory-Oriented Architectures
 - AI for Cybersecurity and Resilient Systems
 - Open-source AI Tooling
