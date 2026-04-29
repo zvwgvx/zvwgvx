@@ -1,5 +1,4 @@
 # Giang T. Vu (Zang Vũ)
-
 Research-oriented student building AI systems, autonomous agents, and open-source tools.
 
 My primary direction spans cognitive science, quantitative trading, and cybersecurity — domains I view as subtrees of the broader AI landscape, unified by a common focus on intelligence, adaptation, reasoning, and decision-making. My work explores large language models, intelligent agents, instruction tuning, retrieval-augmented generation, and memory-oriented architectures, with an emphasis on practical systems and open-source contributions.
