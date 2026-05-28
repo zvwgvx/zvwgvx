@@ -49,8 +49,8 @@ I am interested in building **practical AI systems** that combine **language mod
 
 * Selected to participate in **Vietnam’s 2026 National Team Selection Test** for the **International Olympiad in Artificial Intelligence (IOAI)**
 * Participant in **VAIC 2026 — Vietnam AI Championship**
-* **Bronze Medal in Informatics**, Northern and Coastal Area Olympiad
 * **ICPC National 2025 Honorable Mention**
+* **Bronze Medal in Informatics**, Northern and Coastal Area Olympiad
 * **Codeforces Expert**
 
 ## Current Focus
