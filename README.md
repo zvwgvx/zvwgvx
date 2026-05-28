@@ -26,7 +26,7 @@ I am interested in building **practical AI systems** that combine **language mod
 
   `AI agents` · `memory systems` · `cognitive architecture` · `state-based agents`
 
-* [**vi-genz-synthetic-4k**](https://github.com/polydevs-labs/vi-genz-synthetic-4k) — a **4k-sample synthetic Vietnamese Gen Z dialogue corpus** generated under controlled conditions to capture modern colloquialisms and slang
+* [**Vietnamese Gen Z Synthetic Data**](https://github.com/polydevs-labs/vi-genz-synthetic-4k) — a **4k-sample synthetic Vietnamese Gen Z dialogue corpus** generated under controlled conditions to capture modern colloquialisms and slang
 
   `Vietnamese NLP` · `synthetic data` · `dialogue modeling` · `language behavior`
 
