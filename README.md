@@ -23,18 +23,23 @@ I am interested in building practical AI systems that combine language models, m
 ## Selected Projects
 
 * [**Polyverse Agent**](https://github.com/polydevs-labs/polyverse-agent) — an experimental agent framework exploring memory, state transitions, internal states, and adaptive behavior
+  
   `AI agents` · `memory systems` · `cognitive architecture` · `state-based agents`
 
 * [**AegisQ**](https://github.com/polydevs-labs/AegisQ) — a quantitative intelligence system for trading, featuring multi-agent orchestration, simulation, and advanced risk management
+  
   `quantitative intelligence` · `multi-agent systems` · `simulation` · `risk management`
 
 * [**vi-genz-synthetic-4k**](https://github.com/polydevs-labs/vi-genz-synthetic-4k) — a 4k-sample synthetic Vietnamese Gen Z dialogue corpus generated under controlled conditions to capture modern colloquialisms and slang
+  
   `Vietnamese NLP` · `synthetic data` · `dialogue modeling` · `language behavior`
 
 * [**Pryzrak**](https://github.com/svyatopolk/pryzrak) — contributions to a distributed systems and network-security framework with a low-level design focus
+  
   `systems programming` · `distributed systems` · `network security` · `low-level design`
 
 * [**Open WebUI**](https://github.com/open-webui/open-webui) — contributions to practical open-source AI interfaces
+  
   `open-source AI` · `LLM interfaces` · `AI tooling`
 
 ## Technical Background
