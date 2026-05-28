@@ -26,10 +26,6 @@ I am interested in building practical AI systems that combine language models, m
 
   `AI agents` · `memory systems` · `cognitive architecture` · `state-based agents`
 
-* [**AegisQ**](https://github.com/polydevs-labs/AegisQ) — a quantitative intelligence system for trading, featuring multi-agent orchestration, simulation, and advanced risk management
-
-  `quantitative intelligence` · `multi-agent systems` · `simulation` · `risk management`
-
 * [**vi-genz-synthetic-4k**](https://github.com/polydevs-labs/vi-genz-synthetic-4k) — a 4k-sample synthetic Vietnamese Gen Z dialogue corpus generated under controlled conditions to capture modern colloquialisms and slang
 
   `Vietnamese NLP` · `synthetic data` · `dialogue modeling` · `language behavior`
