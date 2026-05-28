@@ -1,4 +1,4 @@
-# Giang T. Vu · Zang Vũ
+# Giang T. Vu  ·  Zang Vũ
 
 High school student researching AI systems, cognitive architectures, and open-source intelligent tools.
 
