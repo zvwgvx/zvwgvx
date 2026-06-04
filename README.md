@@ -1,22 +1,21 @@
 # Giang Truong Vu  ·  Zang Vũ
 
-High school student researching **Cognitive AI**, **computational models of mind**, and **psychology-inspired artificial intelligence**, with a focus on **memory**, **behavior modeling**, and **biologically inspired agent architectures**.
+High school student studying **cognitive science** and **psychology** applied to AI, with a focus on **memory**, **behavior**, and **intelligent agents**.
 
-My main direction focuses on building AI systems inspired by **cognitive science**, **psychology**, **behavioral psychology**, and **neuroscience** — especially systems involving **memory**, **internal states**, **behavior modeling**, and **adaptive agent architectures**.
+My main direction focuses on building AI systems inspired by **cognitive science**, **general psychology**, **behavioral psychology**, and **neuroscience** — especially systems involving **memory**, **internal states**, **behavior modeling**, and **adaptive agents**.
 
-I am interested in how artificial systems can model, organize, and express information through **memory structures**, **psychological rules**, **biologically inspired mechanisms**, and practical AI tooling.
+I am interested in how artificial systems can use **memory structures**, **psychological rules**, and **biologically inspired mechanisms** to organize information, model behavior, and support practical AI tools.
 
 ## Research Interests
 
 * **Cognitive Artificial Intelligence**
-* **Psychology-Inspired AI Systems**
+* **Psychology Applied to AI**
 * **Behavioral Psychology and Behavior Modeling**
-* **Biologically Inspired AI Architectures**
+* **Biologically Inspired AI Systems**
 * **Memory-Oriented Architectures**
 * **Internal-State and Adaptive Behavior Modeling**
 * Intelligent Agents and Autonomous Systems
-* Cognitive Science and Computational Models of Mind
-* Neuroscience-Inspired Information Processing
+* Neuroscience-Inspired AI Systems
 * Large Language Models
 * Instruction Tuning and Alignment
 * Synthetic Data Generation
@@ -47,7 +46,7 @@ I am interested in how artificial systems can model, organize, and express infor
 **Languages:** Python, C/C++, Rust
 **AI/ML:** PyTorch, Transformers, embedding models, LLM tooling, synthetic data, evaluation pipelines
 **Systems:** Linux, Docker, networking, backend infrastructure
-**Focus Areas:** **cognitive AI**, **psychology-inspired systems**, **behavior modeling**, **memory architectures**, agent systems, open-source AI tools
+**Focus Areas:** **cognitive AI**, **psychology applied to AI**, **behavior modeling**, **memory systems**, agent architectures, open-source AI tools
 
 ## Competitive Programming & Academic Background
 
@@ -61,4 +60,4 @@ I am interested in how artificial systems can model, organize, and express infor
 
 I am currently exploring how artificial agents can maintain **memory**, **internal states**, and **adaptive behavior** over time through mechanisms inspired by **cognitive science**, **behavioral psychology**, and **biological systems**.
 
-My long-term goal is to develop AI systems that are not only **task solvers**, but also **structured**, **persistent**, and **behaviorally adaptive systems** with richer memory, state, and behavior-control mechanisms.
+My long-term goal is to develop AI systems that are not only **task solvers**, but also **structured**, **persistent**, and **behaviorally adaptive** systems with richer memory, state, and behavior-control mechanisms.
