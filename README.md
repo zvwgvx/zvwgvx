@@ -53,7 +53,8 @@ I am interested in how artificial systems can use **memory structures**, **psych
 * Selected to participate in **Vietnam’s 2026 National Team Selection Test** for the **International Olympiad in Artificial Intelligence (IOAI)**
 * Participant in **VAIC 2026 — Vietnam AI Championship**
 * **ICPC National 2025 Honorable Mention**
-* **Bronze Medal in Informatics**, Northern and Coastal Area Olympiad
+* **Bronze Medal in Informatics** - Northern and Coastal Area Olympiad
+* **Second Prize** - Northern Vietnam Informatics Summer Camp 2026
 * **Codeforces Expert**
 
 ## Current Focus
