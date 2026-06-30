@@ -48,15 +48,13 @@ I am interested in how artificial systems can use **memory structures**, **psych
 **Systems:** Linux, Docker, networking, backend infrastructure
 **Focus Areas:** **cognitive AI**, **psychology applied to AI**, **behavior modeling**, **memory systems**, agent architectures, open-source AI tools
 
-## Competitive Programming & Academic Background
+* Selected to participate in **Vietnam's 2026 National Team Selection Test** for the **International Olympiad in Artificial Intelligence (IOAI)**
+* **ICPC Vietnam National 2025 Honorable Mention**
+* **Second Prize** — Northern Vietnam Informatics Summer Camp 2026
+* **Bronze Medal in Informatics** — Northern and Coastal Area Olympiad 2026
 
-* Selected to participate in **Vietnam’s 2026 National Team Selection Test** for the **International Olympiad in Artificial Intelligence (IOAI)**
-* Participant in **VAIC 2026 — Vietnam AI Championship**
-* **ICPC National 2025 Honorable Mention**
-* **Bronze Medal in Informatics** - Northern and Coastal Area Olympiad
-* **Second Prize** - Northern Vietnam Informatics Summer Camp 2026
 * **Codeforces Expert**
-
+  
 ## Current Focus
 
 I am currently exploring how artificial agents can maintain **memory**, **internal states**, and **adaptive behavior** over time through mechanisms inspired by **cognitive science**, **behavioral psychology**, and **biological systems**.
