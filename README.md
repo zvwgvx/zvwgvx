@@ -48,10 +48,11 @@ I am interested in how artificial systems can use **memory structures**, **psych
 **Systems:** Linux, Docker, networking, backend infrastructure
 **Focus Areas:** **cognitive AI**, **psychology applied to AI**, **behavior modeling**, **memory systems**, agent architectures, open-source AI tools
 
+* **First Prize** — Provincial Informatics Team Selection Exam for the **2026 Vietnamese National Olympiad in Informatics (VOI 2026)**
 * Selected to participate in **Vietnam's 2026 National Team Selection Test** for the **International Olympiad in Artificial Intelligence (IOAI)**
 * **ICPC Vietnam National 2025 Honorable Mention**
 * **Second Prize** — Northern Vietnam Informatics Summer Camp 2026
-* **Silver Medal in Informatics** — Northern Mountainous and Midland Region Olympiad (Hung Vuong Summer Camp) 2026
+* **Silver Medal in Informatics** — Northern Mountainous and Midland Region Olympiad 2026
 * **Bronze Medal in Informatics** — Northern and Coastal Area Olympiad 2026
 * **Codeforces Expert**
   
