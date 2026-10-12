@@ -27,7 +27,7 @@ Alongside AI research, I work on **systems engineering**, particularly **Minecra
 
 ## Selected Projects
 
-* **AELIA**(https://github.com/sentialab-org/aelia) — an experimental cognitive architecture exploring how persistent artificial entities can maintain **memory**, **beliefs**, **internal states**, **identity**, **goals**, and **adaptive behavior** across long-term interaction
+* [**AELIA**](https://github.com/sentialab-org/aelia) — an experimental cognitive architecture exploring how persistent artificial entities can maintain **memory**, **beliefs**, **internal states**, **identity**, **goals**, and **adaptive behavior** across long-term interaction
 
   `cognitive architecture` · `memory systems` · `belief models` · `world models` · `internal states` · `artificial life`
 
