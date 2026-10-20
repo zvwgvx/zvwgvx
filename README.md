@@ -15,7 +15,7 @@ Involved with [SENTIA Lab](https://sentialab.org), [RiFT Research](https://githu
 - **[Opus Client](https://github.com/project-opusmc/opus)** — Performance-focused Minecraft client with custom runtime and rendering systems.
 - **[Vietnamese Gen Z Synthetic Data](https://github.com/polydevs-labs/vi-genz-synthetic-4k)** — 4K synthetic Vietnamese dialogue samples for colloquial language modeling.
 
-Open-source contributions: **[Open WebUI](https://github.com/open-webui/open-webui)**.
+**Open-source contributions:** [Open WebUI](https://github.com/open-webui/open-webui) · [9Router](https://github.com/decolua/9router)
 
 ## Achievements
 
@@ -29,4 +29,4 @@ Open-source contributions: **[Open WebUI](https://github.com/open-webui/open-web
 
 ## Tech Stack
 
-**Languages:** Python, C/C++, Rust, Javascript
+**Languages:** Python, C/C++, Rust, JavaScript
