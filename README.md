@@ -29,4 +29,4 @@ Involved with [SENTIA Lab](https://sentialab.org), [RiFT Research](https://githu
 
 ## Tech Stack
 
-**Languages:** Python, C/C++, Rust, JavaScript
+**Languages:** Python, C/C++, Rust, Java, JavaScript
